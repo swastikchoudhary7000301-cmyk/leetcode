@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0049-group-anagrams) |
 | [0274-h-index](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0274-h-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Dynamic Programming
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0049-group-anagrams) |
 | [0274-h-index](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0274-h-index) |
 ## Counting Sort
 |  |
@@ -27,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0049-group-anagrams) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
