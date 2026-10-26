@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0274-h-index](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0274-h-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Dynamic Programming
@@ -50,4 +51,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
