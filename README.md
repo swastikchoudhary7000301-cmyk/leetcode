@@ -52,4 +52,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
