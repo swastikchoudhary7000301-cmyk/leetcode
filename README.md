@@ -39,10 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0205-isomorphic-strings) |
 ## Two Pointers
 |  |
 | ------- |
