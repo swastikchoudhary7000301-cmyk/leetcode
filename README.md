@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0374-guess-number-higher-or-lower](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Tree
 |  |
 | ------- |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
