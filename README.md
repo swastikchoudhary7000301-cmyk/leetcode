@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0045-jump-game-ii) |
 ## Greedy
 |  |
@@ -48,12 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0205-isomorphic-strings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
@@ -108,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
