@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0049-group-anagrams) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0205-isomorphic-strings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
