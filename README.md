@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0274-h-index](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0414-third-maximum-number) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Dynamic Programming
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0045-jump-game-ii) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0414-third-maximum-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Counting Sort
 |  |
 | ------- |
