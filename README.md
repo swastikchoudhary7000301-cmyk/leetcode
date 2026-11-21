@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0274-h-index](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0414-third-maximum-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Dynamic Programming
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0414-third-maximum-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Counting Sort
@@ -63,12 +65,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0088-merge-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0374-guess-number-higher-or-lower](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Tree
 |  |
 | ------- |
