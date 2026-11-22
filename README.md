@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0205-isomorphic-strings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Two Pointers
 |  |
 | ------- |
