@@ -129,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/3360-stone-removal-game) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/swastikchoudhary7000301-cmyk/leetcode/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
